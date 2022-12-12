@@ -1,7 +1,1 @@
-hola xd
-hola2 xd
-<<<<<<< HEAD
-Esta es la linea añadida del apartado 5
-=======
-Esta parte es la del ejercicio 5
->>>>>>> 59f09bd738c60bcf18f793166a34c13602009f07
+git hub desde el navegador
